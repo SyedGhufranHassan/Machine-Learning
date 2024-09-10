@@ -2,7 +2,7 @@ Welcome to the Machine Learning repository, your central hub for machine learnin
 
 Features:
 
-Algorithms: Implementations of various machine learning algorithms including supervised, unsupervised, and reinforcement learning.
+Algorithms: Implementations of various machine learning algorithms.
 Data Preprocessing: Tools for data cleaning, normalization, transformation, and feature engineering.
 Model Selection: Techniques for model selection, cross-validation, hyperparameter tuning, and performance evaluation.
 Visualization: Tools for visualizing data distributions, model performance, and results.
